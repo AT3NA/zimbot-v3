@@ -40,7 +40,7 @@ global.APIKeys = {
 global.owner = ['917407138389','917407138389']
 global.premium = ['27634090203','918188019676']
 global.botname = 'ASUNA BOT INC'
-global.ownername = 'LEVU'
+global.ownername = 'LEVI'
 global.group1 = 'SGAG'
 global.group2 = 'https://chat.whatsapp.com/'
 global.packname = 'ASUNA BOT INC'
@@ -67,7 +67,7 @@ global.f6 = 'application/vnd.android.package-archive'
 global.author = 'ZIM BOT INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = [','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
